@@ -1,4 +1,6 @@
 # IMAGE-TRANSFORMATIONS
+## Name: Ananda Rakshan K V
+## Reg.No: 212223230014
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
